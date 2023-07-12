@@ -1532,5 +1532,13 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Red - MAGENTA -  Blue",
+        "colors": ["#FF0000", "#F000F0", "#0000FF"]
+    },
+    {
+        "name": "Red -  Blue",
+        "colors": ["#FF0000", "#0000FF"]
     }
 ]
